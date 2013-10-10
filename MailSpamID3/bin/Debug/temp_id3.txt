@@ -1,0 +1,6 @@
+limeston,mount,cream,carbonara,accept,credit,applic,degre,ba,pdc,pdcid,result
+int5,int5,int1,int1,int1,int1,int1,int1,int1,int1,int1,ham
+int1,int1,int5,int5,int1,int1,int1,int1,int1,int1,int1,ham
+int1,int1,int1,int1,int5,int7,int6,int1,int1,int1,int1,spam
+int1,int1,int1,int1,int1,int1,int1,int6,int5,int1,int1,spam
+int1,int1,int1,int1,int1,int1,int1,int1,int1,int6,int5,spam

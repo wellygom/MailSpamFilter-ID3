@@ -1,0 +1,145 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:RawDataSource.cs" caret="1367" fromTop="49" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:DT.cs" caret="7934" fromTop="10" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="11944" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="22906" fromTop="18" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="22762" fromTop="9" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="22571" fromTop="12" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="5" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="25" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="7" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="18" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="22" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12463" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="796" fromTop="0" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="3827" fromTop="9" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="6173" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="6472" fromTop="12" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="9626" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="10084" fromTop="24" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="10925" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12108" fromTop="22" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="25095" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="12447" fromTop="10" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:RawDataSource.cs" caret="698" fromTop="14" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:RawDataSource.cs" caret="6410" fromTop="49" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="5985" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="6656" fromTop="16" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="25179" fromTop="2" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="10527" fromTop="2" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="10313" fromTop="27" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="9054" fromTop="14" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="9459" fromTop="24" />
+      <File id="50F5685C-5535-4CC8-BD6E-81A059095527/f:MainForm.cs" caret="11944" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="lb_frekTest" priority="30" />
+      <Item value="dataGridView1" priority="255" />
+      <Item value="foreach" priority="63" />
+      <Item value="term" priority="95" />
+      <Item value="VARIABLE" priority="31" />
+      <Item value="kata" priority="127" />
+      <Item value="AttributeTargets`0" priority="31" />
+      <Item value="i" priority="63" />
+      <Item value="dtTest" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="if" priority="31" />
+      <Item value="hasil" priority="159" />
+      <Item value="for" priority="63" />
+      <Item value="disFrekTesting" priority="62" />
+      <Item value="j" priority="63" />
+      <Item value="var" priority="63" />
+      <Item value="List" priority="29" />
+      <Item value="namaKolom" priority="63" />
+      <Item value="tipe" priority="31" />
+      <Item value="StringBuilder`0" priority="31" />
+      <Item value="new" priority="63" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="sb" priority="127" />
+      <Item value="_sourcePathAndFile" priority="31" />
+      <Item value="Environment`0" priority="31" />
+      <Item value="ref" priority="31" />
+      <Item value="StringSplitOptions`0" priority="31" />
+      <Item value="dataGridView2" priority="223" />
+      <Item value="Enumerable`0" priority="31" />
+      <Item value="dataKategorisasi" priority="31" />
+      <Item value="lb_teks" priority="26" />
+      <Item value="bool" priority="29" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Count" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Rows" priority="109" />
+      <Item value="Columns" priority="163" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Clear`0" priority="53" />
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Clear`0" priority="53" />
+      <Item value="Add`0" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WindowsFormsApplication1.DecisionTreeTesting">
+      <Item value="GetResult`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="53" />
+      <Item value="Add`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Clear`0" priority="26" />
+      <Item value="Append`0" priority="53" />
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="27" />
+      <Item value="ToArray`1" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

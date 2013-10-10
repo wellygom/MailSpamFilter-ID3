@@ -1,0 +1,62 @@
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.csproj.GenerateResource.Cache
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.exe
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.pdb
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.exe
+F:\K_U_L_I_A_H\Skripsi!!!!\Program\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.RawDataSource.resources
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.exe
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.pdb
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\WindowsFormsApplication1.RawDataSource.resources
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\GenerateResource.read.1.tlog
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\obj\Debug\GenerateResource.write.1.tlog
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.exe
+D:\Desktop\alalala\MailSpamID3\MailSpamID3\bin\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\Debug\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\Debug\MailSpamID3\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\bin\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\bin\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\WindowsFormsApplication1.RawDataSource.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.1\MailSpamID3\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\bin\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\bin\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\WindowsFormsApplication1.RawDataSource.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.2\MailSpamID3\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\bin\Debug\MailSpamID3.exe
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\bin\Debug\MailSpamID3.pdb
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\WindowsFormsApplication1.RawDataSource.resources
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3 v2.3\MailSpamID3\obj\Debug\GenerateResource.write.1.tlog
+F:\K_U_L_I_A_H\Skripsi!!!!\SKRIPSI\MailSpamID3 v2.3\MailSpamID3\obj\Debug\MailSpamID3.exe
+F:\K_U_L_I_A_H\Skripsi!!!!\SKRIPSI\MailSpamID3 v2.3\MailSpamID3\obj\Debug\MailSpamID3.pdb

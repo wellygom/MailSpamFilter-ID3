@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MailSpamID3">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\MailSpamID3.suo">
+</Property><Property Name="Date" Value="01 Januari 2012">
+</Property><Property Name="Time" Value="0:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MailSpamID3.sln" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MailSpamID3.suo" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3.suo">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MailSpamID3.csproj" Description="Project file successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\MailSpamID3.csproj">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MailSpamID3.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\MailSpamID3.csproj.user">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Copy of Stemmer.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Copy of Stemmer.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\HtmlAilityPack.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\HtmlAilityPack.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\htmlCleaner.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\htmlCleaner.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MainForm.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MainForm.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Program.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Program.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Stemmer.cs" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Stemmer.cs">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MainForm.resx" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\COMPAQ416\Desktop\MailSpamID3\Backup\MailSpamID3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MailSpamID3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MailSpamID3" Source="MailSpamID3\MailSpamID3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MailSpamID3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MailSpamID3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MailSpamID3" Source="MailSpamID3\MailSpamID3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
